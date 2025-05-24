@@ -122,29 +122,12 @@ MobileNet was chosen as the best-performing model based on its balance of accura
 * Learning rate scheduling was applied to fine-tune the model's learning process.
 
 
-## **7\. Results**
-
-###      **Best Model (MobileNet) Performance:**
-
-* **Accuracy**: 99.73%  
-* **Precision**: 0.102819  
-* **Recall**: 0.102918  
-* **F1-Score**: 0.102868
-
-These results show high confidence in predicting fish species across the test  dataset. 
-
-## 
-
-## 
-
-## 
-
-## **8\. Screenshots**
+## **7\. Screenshots**
 
 Here is a screenshot of the Streamlit app interface, including the image upload section, real-time prediction, and confidence score display:  
 ![][image1]
 
-**9\. Folder Structure**
+**8\. Folder Structure**
 
 ├── app.py                        \# Streamlit application
 
@@ -158,7 +141,7 @@ Here is a screenshot of the Streamlit app interface, including the image upload 
 
 ## 
 
-## **10\. Future Enhancements**
+## **9\. Future Enhancements**
 
 * **Expand dataset** to include more fish species for better generalization.
 
@@ -169,12 +152,12 @@ Here is a screenshot of the Streamlit app interface, including the image upload 
 * **Improve UI**: Enhance the user interface with additional features such as displaying model evaluation results within the app.
 
 
-## **11\. Contributors**
+## **10\. Contributors**
 
 * **Shubhi Garg** (GitHub:[ShubhiGarg](https://github.com/Shubhitestgithub))
 
 
-## **13\. Acknowledgments**
+## **11\. Acknowledgments**
 
 * Thanks to the TensorFlow and Keras community for providing excellent tools for deep learning.
 
